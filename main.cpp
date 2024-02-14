@@ -12,5 +12,9 @@
  *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
+ *
+ * 
+ *  Introductory comments: Shirin Herrington, CS 117, Sections 17782 & 17823
+ *  Program name: UsingLoops
+ *  Description: Using loops in calculating and printing digits and characters
  */
-
